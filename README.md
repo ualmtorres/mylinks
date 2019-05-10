@@ -20,4 +20,4 @@
 
 # De interés
 
-* [Tutorial API REST MEAN](https://ualmtorres.github.io/TutorialAPIRESTMEANEn3ms)
+* [Swagger básico](https://app.swaggerhub.com/help/tutorials/getting-started?utm_medium=email&utm_source=shub&utm_campaign=swaggerhub-onboarding&d_utk=882fe156-d86c-440f-b265-554cb3d04976&d_campaign=391883)
