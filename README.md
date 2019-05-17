@@ -2,7 +2,7 @@
 
 ## MariaDB
 
-* [Configure a Galera Cluster with MariaDB 10.1 on Ubuntu 16.04 Servers]https://www.digitalocean.com/community/tutorials/how-to-configure-a-galera-cluster-with-mariadb-10-1-on-ubuntu-16-04-servers
+* [Configure a Galera Cluster with MariaDB 10.1 on Ubuntu 16.04 Servers](https://www.digitalocean.com/community/tutorials/how-to-configure-a-galera-cluster-with-mariadb-10-1-on-ubuntu-16-04-servers)
 
 ## NoSQL
 
