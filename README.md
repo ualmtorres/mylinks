@@ -21,6 +21,7 @@
 # Concepts
 
 * [Single Tier vs Multi Tier](https://docs.bitnami.com/aws-templates/singletier-vs-multitier/)
+* [Containers](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/?sc_cid=70160000001273HAAQ)
 
 # Software Engineering
 
