@@ -18,6 +18,10 @@
 * [Alexa Skill Dev Introduction by IONOS](https://www.ionos.es/digitalguide/online-marketing/vender-en-internet/programar-skills-de-alexa/)
 * [Alexa Development 101 - Full Amazon Echo tutorial course in one video](https://www.youtube.com/watch?v=4SXCHvxRSNE)
 
+# Concepts
+
+* [Single Tier vs Multi Tier](https://docs.bitnami.com/aws-templates/singletier-vs-multitier/)
+
 # Software Engineering
 
 * [SOLID Principles Posts by Denham Coder](https://denhamcoder.net/tag/solid/)
